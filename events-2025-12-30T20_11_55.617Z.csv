@@ -1,0 +1,1189 @@
+timestamp,agent.name,rule.description,rule.level,rule.id
+"Dec 30, 2025 @ 15:11:16.517",ubuntu-endpoint-01,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 15:09:55.684",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:08:57.676",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:08:39.674",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:08:35.673",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:08:29.672",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:08:25.671",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:08:19.670",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:08:15.667",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:07:19.658",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:07:15.657",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:07:09.657",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:07:08.933",ubuntu,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 15:07:05.650",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:06:53.649",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:06:47.648",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:06:43.647",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:06:37.643",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:06:33.642",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:06:27.641",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:06:21.640",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:06:17.639",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:06:11.638",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:06:07.634",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:06:01.632",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:05:49.630",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:05:43.628",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:05:39.628",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:05:33.627",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:05:29.626",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:05:23.625",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:05:19.621",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:05:13.620",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:04:29.614",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:04:23.613",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:04:19.613",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:04:13.612",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:04:07.611",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:03:49.608",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:03:43.607",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:03:39.607",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:03:33.606",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:03:27.605",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:03:23.603",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:03:17.602",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:03:13.601",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:03:07.600",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:03:03.599",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:02:57.598",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:02:53.598",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:02:47.596",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:02:43.596",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:02:37.595",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:02:33.594",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:02:27.593",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:02:23.592",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:02:17.591",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:02:13.590",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:02:07.589",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:02:03.588",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:01:38.410",ubuntu-endpoint-01,PAM: Login session closed.,3,5502
+"Dec 30, 2025 @ 15:01:38.408",ubuntu-endpoint-01,Successful sudo to ROOT executed.,3,5402
+"Dec 30, 2025 @ 15:01:38.408",ubuntu-endpoint-01,PAM: Login session opened.,3,5501
+"Dec 30, 2025 @ 15:01:26.447",ubuntu-endpoint-01,PAM: Login session closed.,3,5502
+"Dec 30, 2025 @ 15:01:26.406",ubuntu-endpoint-01,PAM: Login session opened.,3,5501
+"Dec 30, 2025 @ 15:01:26.406",ubuntu-endpoint-01,First time user executed sudo.,4,5403
+"Dec 30, 2025 @ 15:01:08.876",ubuntu,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 15:00:58.443",ubuntu-endpoint-01,PAM: Login session closed.,3,5502
+"Dec 30, 2025 @ 15:00:58.401",ubuntu-endpoint-01,PAM: Login session closed.,3,5502
+"Dec 30, 2025 @ 15:00:05.570",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 15:00:01.569",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:59:51.568",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:59:41.566",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:59:37.565",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:59:29.564",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:59:25.563",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:59:19.562",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:59:15.561",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:59:09.561",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:59:05.560",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:58:59.559",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:58:53.558",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:58:49.558",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:58:39.556",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:58:33.555",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:58:29.554",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:58:23.552",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:58:19.552",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:58:13.551",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:58:01.548",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:57:51.546",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:57:35.543",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:57:31.542",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:57:25.541",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:57:21.540",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:57:15.539",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:57:11.538",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:57:05.538",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:57:01.537",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:56:49.535",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:56:43.534",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:56:39.533",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:56:33.531",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:56:29.530",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:56:23.527",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:56:19.524",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:56:13.523",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:55:57.520",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:55:53.520",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:55:47.518",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:55:41.515",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:55:37.514",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:55:31.513",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:55:25.512",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:55:21.511",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:55:11.509",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:55:05.508",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:55:01.507",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:54:55.506",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:54:49.500",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:54:45.499",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:54:39.498",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:54:35.497",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:54:25.489",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:54:17.485",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:54:13.484",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:54:07.483",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:54:03.482",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:53:57.481",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:53:53.481",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:53:47.479",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:53:43.479",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:53:37.477",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:53:33.477",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:52:47.470",ubuntu,PAM: Login session closed.,3,5502
+"Dec 30, 2025 @ 14:52:47.470",ubuntu,Successful sudo to ROOT executed.,3,5402
+"Dec 30, 2025 @ 14:52:47.470",ubuntu,PAM: Login session opened.,3,5501
+"Dec 30, 2025 @ 14:52:19.466",ubuntu,PAM: Login session closed.,3,5502
+"Dec 30, 2025 @ 14:52:09.464",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:44:31.403",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:43:53.396",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:43:43.395",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:43:37.393",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:43:23.391",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:43:17.390",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:43:13.389",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:41:43.997",ubuntu-endpoint-01,SCA summary: CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Score less than 50% (46),7,19004
+"Dec 30, 2025 @ 14:41:32.062",ubuntu-endpoint-01,SCA summary: CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Score less than 50% (46),7,19004
+"Dec 30, 2025 @ 14:41:25.067",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure no duplicate group names exist.,3,19008
+"Dec 30, 2025 @ 14:41:25.025",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure no duplicate UIDs exist.,3,19008
+"Dec 30, 2025 @ 14:41:25.025",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure no duplicate GIDs exist.,3,19008
+"Dec 30, 2025 @ 14:41:25.025",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure no duplicate user names exist.,3,19008
+"Dec 30, 2025 @ 14:41:24.996",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure shadow group is empty.,3,19008
+"Dec 30, 2025 @ 14:41:24.984",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure all groups in /etc/passwd exist in /etc/group.,3,19008
+"Dec 30, 2025 @ 14:41:24.984",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure /etc/shadow password fields are not empty.,3,19008
+"Dec 30, 2025 @ 14:41:24.963",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/security/opasswd are configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.963",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure accounts in /etc/passwd use shadowed passwords.,3,19008
+"Dec 30, 2025 @ 14:41:24.943",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/gshadow- are configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.943",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/shells are configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.923",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/gshadow are configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.922",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/shadow- are configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.902",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/shadow are configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.891",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/group- are configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.891",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/group are configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.871",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/passwd are configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.871",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/passwd- are configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.862",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure cryptographic mechanisms are used to protect the integrity of audit tools.,3,19009
+"Dec 30, 2025 @ 14:41:24.840",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure AIDE is installed.,7,19007
+"Dec 30, 2025 @ 14:41:24.840",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure filesystem integrity is regularly checked.,7,19007
+"Dec 30, 2025 @ 14:41:24.819",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit tools owner is configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.819",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit tools group owner is configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.799",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit tools mode is configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.789",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit configuration files group owner is configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.788",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit configuration files owner is configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.768",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit log files group owner is configured.,3,19009
+"Dec 30, 2025 @ 14:41:24.768",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit configuration files mode is configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.747",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure the running and on disk configuration is the same.,3,19009
+"Dec 30, 2025 @ 14:41:24.747",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure the audit configuration is immutable.,3,19009
+"Dec 30, 2025 @ 14:41:24.727",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure kernel module loading unloading and modification is collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.717",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure successful and unsuccessful attempts to use the chacl command are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.717",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure successful and unsuccessful attempts to use the usermod command are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.696",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure successful and unsuccessful attempts to use the setfacl command are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.693",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure successful and unsuccessful attempts to use the chcon command are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.676",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure file deletion events by users are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.676",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure events that modify the system's Mandatory Access Controls are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.655",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure session initiation information is collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.655",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure login and logout events are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.635",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure successful file system mounts are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.624",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure discretionary access control permission modification events are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.614",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure events that modify user/group information are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.604",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure unsuccessful file access attempts are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.594",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure events that modify the system's network environment are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.593",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure events that modify date and time information are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.574",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure events that modify the sudo log file are collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.574",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure actions as another user are always logged.,3,19009
+"Dec 30, 2025 @ 14:41:24.554",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure changes to system administration scope (sudoers) is collected.,3,19009
+"Dec 30, 2025 @ 14:41:24.553",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure system warns when audit logs are low on space.,3,19009
+"Dec 30, 2025 @ 14:41:24.533",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit logs are not automatically deleted.,3,19009
+"Dec 30, 2025 @ 14:41:24.533",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure system is disabled when audit logs are full.,3,19009
+"Dec 30, 2025 @ 14:41:24.532",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit log storage size is configured.,3,19009
+"Dec 30, 2025 @ 14:41:24.502",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit_backlog_limit is sufficient.,7,19007
+"Dec 30, 2025 @ 14:41:24.492",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure auditd service is enabled and active.,7,19007
+"Dec 30, 2025 @ 14:41:24.492",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure auditing for processes that start prior to auditd is enabled.,7,19007
+"Dec 30, 2025 @ 14:41:24.492",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure auditd packages are installed.,7,19007
+"Dec 30, 2025 @ 14:41:24.461",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure access to all logfiles has been configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.451",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsyslog is configured to send logs to a remote log host.,7,19007
+"Dec 30, 2025 @ 14:41:24.451",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsyslog is not configured to receive logs from a remote client.,3,19008
+"Dec 30, 2025 @ 14:41:24.430",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure journald is configured to send logs to rsyslog.,3,19008
+"Dec 30, 2025 @ 14:41:24.430",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsyslog log file creation mode is configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.410",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsyslog service is enabled and active.,3,19008
+"Dec 30, 2025 @ 14:41:24.409",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsyslog is installed.,3,19008
+"Dec 30, 2025 @ 14:41:24.392",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure journald Storage is configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.379",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure journald ForwardToSyslog is disabled.,3,19008
+"Dec 30, 2025 @ 14:41:24.379",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure journald Compress is configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.359",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure systemd-journal-remote service is not in use.,3,19008
+"Dec 30, 2025 @ 14:41:24.358",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure systemd-journal-upload is enabled and active.,3,19008
+"Dec 30, 2025 @ 14:41:24.338",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure systemd-journal-remote is installed.,3,19008
+"Dec 30, 2025 @ 14:41:24.338",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure systemd-journal-upload authentication is configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.317",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure journald service is enabled and active.,3,19008
+"Dec 30, 2025 @ 14:41:24.317",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure journald log file rotation is configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.297",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure default user umask is configured.,3,19009
+"Dec 30, 2025 @ 14:41:24.287",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure default user shell timeout is configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.286",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nologin is not listed in /etc/shells.,3,19008
+"Dec 30, 2025 @ 14:41:24.266",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure root user umask is configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.266",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure root account access is controlled.,3,19008
+"Dec 30, 2025 @ 14:41:24.246",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure root is the only UID 0 account.,3,19008
+"Dec 30, 2025 @ 14:41:24.246",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure group root is the only GID 0 group.,3,19008
+"Dec 30, 2025 @ 14:41:24.246",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure root is the only GID 0 account.,3,19008
+"Dec 30, 2025 @ 14:41:24.214",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure strong password hashing algorithm is configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.214",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure inactive password lock is configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.194",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password expiration warning days is configured.,3,19008
+"Dec 30, 2025 @ 14:41:24.192",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure minimum password days is configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.174",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password expiration is configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.174",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_unix includes use_authtok.,7,19007
+"Dec 30, 2025 @ 14:41:24.154",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_unix includes a strong password hashing algorithm.,3,19008
+"Dec 30, 2025 @ 14:41:24.144",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_unix does not include remember.,3,19008
+"Dec 30, 2025 @ 14:41:24.143",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_unix does not include nullok.,7,19007
+"Dec 30, 2025 @ 14:41:24.123",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password history is enforced for the root user.,7,19007
+"Dec 30, 2025 @ 14:41:24.123",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_pwhistory includes use_authtok.,7,19007
+"Dec 30, 2025 @ 14:41:24.103",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password history remember is configured.,7,19007
+"Dec 30, 2025 @ 14:41:24.092",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password quality is enforced for the root user.,3,19009
+"Dec 30, 2025 @ 14:41:24.082",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password quality checking is enforced.,3,19008
+"Dec 30, 2025 @ 14:41:24.082",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password dictionary check is enabled.,3,19009
+"Dec 30, 2025 @ 14:41:24.061",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password same consecutive characters is configured.,3,19009
+"Dec 30, 2025 @ 14:41:24.061",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password maximum sequential characters is configured.,3,19009
+"Dec 30, 2025 @ 14:41:24.041",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password complexity is configured.,3,19009
+"Dec 30, 2025 @ 14:41:24.030",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password number of changed characters is configured.,3,19009
+"Dec 30, 2025 @ 14:41:24.030",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure minimum password length is configured.,3,19009
+"Dec 30, 2025 @ 14:41:24.010",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password failed attempts lockout includes root account.,7,19007
+"Dec 30, 2025 @ 14:41:24.010",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password unlock time is configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.993",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password failed attempts lockout is configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.979",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_pwhistory module is enabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.969",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_faillock module is enabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.969",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_pwquality module is enabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.949",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure libpam-pwquality is installed.,7,19007
+"Dec 30, 2025 @ 14:41:23.949",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_unix module is enabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.949",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure libpam-modules is installed.,3,19008
+"Dec 30, 2025 @ 14:41:23.919",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure latest version of pam is installed.,3,19008
+"Dec 30, 2025 @ 14:41:23.918",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure access to the su command is restricted.,7,19007
+"Dec 30, 2025 @ 14:41:23.897",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sudo authentication timeout is configured correctly.,3,19008
+"Dec 30, 2025 @ 14:41:23.892",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure re-authentication for privilege escalation is not disabled globally.,3,19008
+"Dec 30, 2025 @ 14:41:23.877",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sudo log file exists.,7,19007
+"Dec 30, 2025 @ 14:41:23.877",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure users must provide password for privilege escalation.,3,19008
+"Dec 30, 2025 @ 14:41:23.862",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sudo is installed.,3,19008
+"Dec 30, 2025 @ 14:41:23.862",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sudo commands use pty.,3,19008
+"Dec 30, 2025 @ 14:41:23.841",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd UsePAM is enabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.827",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd PermitUserEnvironment is disabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.826",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd PermitRootLogin is disabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.806",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd PermitEmptyPasswords is disabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.796",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd MaxStartups is configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.786",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd MaxSessions is configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.785",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd MaxAuthTries is configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.765",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd LogLevel is configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.765",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd MACs are configured.,3,19008
+"Dec 30, 2025 @ 14:41:23.745",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd LoginGraceTime is configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.744",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd KexAlgorithms is configured.,3,19008
+"Dec 30, 2025 @ 14:41:23.724",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd IgnoreRhosts is enabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.724",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd HostbasedAuthentication is disabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.703",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd GSSAPIAuthentication is disabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.693",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd DisableForwarding is enabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.683",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd ClientAliveInterval and ClientAliveCountMax are configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.673",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd Ciphers are configured.,3,19008
+"Dec 30, 2025 @ 14:41:23.663",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd Banner is configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.663",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd access is configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.642",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on SSH public host key files are configured.,3,19008
+"Dec 30, 2025 @ 14:41:23.632",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on SSH private host key files are configured.,3,19008
+"Dec 30, 2025 @ 14:41:23.621",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/ssh/sshd_config are configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.621",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ip6tables loopback traffic is configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.600",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ip6tables default deny firewall policy.,7,19007
+"Dec 30, 2025 @ 14:41:23.589",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure iptables loopback traffic is configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.579",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure iptables default deny firewall policy.,7,19007
+"Dec 30, 2025 @ 14:41:23.569",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ufw is not in use with iptables.,7,19007
+"Dec 30, 2025 @ 14:41:23.559",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nftables is not in use with iptables.,7,19007
+"Dec 30, 2025 @ 14:41:23.549",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure iptables packages are installed.,7,19007
+"Dec 30, 2025 @ 14:41:23.539",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nftables rules are permanent.,7,19007
+"Dec 30, 2025 @ 14:41:23.528",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nftables service is enabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.518",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nftables default deny firewall policy.,7,19007
+"Dec 30, 2025 @ 14:41:23.508",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nftables base chains exist.,7,19007
+"Dec 30, 2025 @ 14:41:23.498",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure a nftables table exists.,7,19007
+"Dec 30, 2025 @ 14:41:23.488",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure iptables are flushed with nftables.,7,19007
+"Dec 30, 2025 @ 14:41:23.477",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ufw is uninstalled or disabled with nftables.,3,19008
+"Dec 30, 2025 @ 14:41:23.466",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nftables is installed.,3,19008
+"Dec 30, 2025 @ 14:41:23.456",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ufw default deny firewall policy.,7,19007
+"Dec 30, 2025 @ 14:41:23.446",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ufw loopback traffic is configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.435",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ufw service is enabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.424",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure iptables-persistent is not installed with ufw.,3,19008
+"Dec 30, 2025 @ 14:41:23.414",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ufw is installed.,3,19008
+"Dec 30, 2025 @ 14:41:23.404",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure a single firewall configuration utility is in use.,7,19007
+"Dec 30, 2025 @ 14:41:23.393",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ipv6 router advertisements are not accepted.,7,19007
+"Dec 30, 2025 @ 14:41:23.383",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure tcp syn cookies is enabled.,3,19008
+"Dec 30, 2025 @ 14:41:23.373",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure suspicious packets are logged.,7,19007
+"Dec 30, 2025 @ 14:41:23.361",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure source routed packets are not accepted.,7,19007
+"Dec 30, 2025 @ 14:41:23.350",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure reverse path filtering is enabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.340",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure secure icmp redirects are not accepted.,7,19007
+"Dec 30, 2025 @ 14:41:23.329",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure icmp redirects are not accepted.,7,19007
+"Dec 30, 2025 @ 14:41:23.319",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure broadcast icmp requests are ignored.,3,19008
+"Dec 30, 2025 @ 14:41:23.309",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure bogus icmp responses are ignored.,3,19008
+"Dec 30, 2025 @ 14:41:23.297",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure packet redirect sending is disabled.,7,19007
+"Dec 30, 2025 @ 14:41:23.288",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ip forwarding is disabled.,3,19008
+"Dec 30, 2025 @ 14:41:23.277",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sctp kernel module is not available.,7,19007
+"Dec 30, 2025 @ 14:41:23.266",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rds kernel module is not available.,7,19007
+"Dec 30, 2025 @ 14:41:23.256",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure tipc kernel module is not available.,7,19007
+"Dec 30, 2025 @ 14:41:23.246",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure dccp kernel module is not available.,7,19007
+"Dec 30, 2025 @ 14:41:23.234",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure bluetooth services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:23.224",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure wireless interfaces are disabled.,3,19009
+"Dec 30, 2025 @ 14:41:23.214",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure at is restricted to authorized users.,7,19007
+"Dec 30, 2025 @ 14:41:23.204",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure crontab is restricted to authorized users.,7,19007
+"Dec 30, 2025 @ 14:41:23.194",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/cron.d are configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.184",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/cron.monthly are configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.173",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/cron.weekly are configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.162",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/cron.daily are configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.152",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/cron.hourly are configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.142",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/crontab are configured.,7,19007
+"Dec 30, 2025 @ 14:41:23.131",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure cron daemon is enabled and active.,3,19008
+"Dec 30, 2025 @ 14:41:23.121",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure chrony is enabled and running.,7,19007
+"Dec 30, 2025 @ 14:41:23.111",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure chrony is running as user _chrony.,7,19007
+"Dec 30, 2025 @ 14:41:23.100",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure chrony is configured with authorized timeserver.,3,19008
+"Dec 30, 2025 @ 14:41:23.090",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure systemd-timesyncd is enabled and running.,3,19008
+"Dec 30, 2025 @ 14:41:23.079",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure systemd-timesyncd configured with authorized timeserver.,7,19007
+"Dec 30, 2025 @ 14:41:23.069",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ftp client is not installed.,7,19007
+"Dec 30, 2025 @ 14:41:23.059",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ldap client is not installed.,3,19008
+"Dec 30, 2025 @ 14:41:23.048",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure telnet client is not installed.,7,19007
+"Dec 30, 2025 @ 14:41:23.038",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure talk client is not installed.,3,19008
+"Dec 30, 2025 @ 14:41:23.028",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsh client is not installed.,3,19008
+"Dec 30, 2025 @ 14:41:23.018",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure NIS Client is not installed.,3,19008
+"Dec 30, 2025 @ 14:41:23.008",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure mail transfer agent is configured for local-only mode.,3,19008
+"Dec 30, 2025 @ 14:41:22.997",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure X window server services are not in use.,7,19007
+"Dec 30, 2025 @ 14:41:22.987",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure xinetd services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.977",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure web server services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.967",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure web proxy server services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.957",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure tftp server services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.947",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure snmp services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.937",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure samba file server services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.927",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsync services are not in use.,7,19007
+"Dec 30, 2025 @ 14:41:22.916",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rpcbind services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.906",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure print server services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.895",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nis server services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.887",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure network file system services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.875",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure message access server services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.865",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ldap server services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.861",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ftp server services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.859",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure dnsmasq services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.835",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure dns server services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.824",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure dhcp server services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.814",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure avahi daemon services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.804",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure autofs services are not in use.,3,19008
+"Dec 30, 2025 @ 14:41:22.794",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure XDMCP is not enabled.,3,19008
+"Dec 30, 2025 @ 14:41:22.784",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM autorun-never is not overridden.,3,19009
+"Dec 30, 2025 @ 14:41:22.774",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM autorun-never is enabled.,3,19009
+"Dec 30, 2025 @ 14:41:22.764",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM disabling automatic mounting of removable media is not overridden.,3,19009
+"Dec 30, 2025 @ 14:41:22.753",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM automatic mounting of removable media is disabled.,3,19009
+"Dec 30, 2025 @ 14:41:22.743",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM screen locks cannot be overridden.,3,19009
+"Dec 30, 2025 @ 14:41:22.733",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM disable-user-list option is enabled.,3,19009
+"Dec 30, 2025 @ 14:41:22.723",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM login banner is configured.,3,19009
+"Dec 30, 2025 @ 14:41:22.713",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM is removed.,3,19008
+"Dec 30, 2025 @ 14:41:22.703",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure access to /etc/issue.net is configured.,3,19008
+"Dec 30, 2025 @ 14:41:22.693",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure access to /etc/issue is configured.,3,19008
+"Dec 30, 2025 @ 14:41:22.683",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure access to /etc/motd is configured.,3,19008
+"Dec 30, 2025 @ 14:41:22.672",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure remote login warning banner is configured properly.,7,19007
+"Dec 30, 2025 @ 14:41:22.662",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure local login warning banner is configured properly.,7,19007
+"Dec 30, 2025 @ 14:41:22.652",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure message of the day is configured properly.,3,19008
+"Dec 30, 2025 @ 14:41:22.642",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure Automatic Error Reporting is not enabled.,7,19007
+"Dec 30, 2025 @ 14:41:22.632",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure prelink is not installed.,3,19008
+"Dec 30, 2025 @ 14:41:22.622",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure core dumps are restricted.,7,19007
+"Dec 30, 2025 @ 14:41:22.611",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure address space layout randomization is enabled.,3,19008
+"Dec 30, 2025 @ 14:41:22.601",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure access to bootloader config is configured.,3,19008
+"Dec 30, 2025 @ 14:41:22.591",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure bootloader password is set.,7,19007
+"Dec 30, 2025 @ 14:41:22.581",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure all AppArmor Profiles are enforcing.,7,19007
+"Dec 30, 2025 @ 14:41:22.571",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure all AppArmor Profiles are in enforce or complain mode.,3,19008
+"Dec 30, 2025 @ 14:41:22.561",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure AppArmor is enabled in the bootloader configuration.,7,19007
+"Dec 30, 2025 @ 14:41:22.551",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure AppArmor is installed.,7,19007
+"Dec 30, 2025 @ 14:41:22.540",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure noexec option set on /var/log/audit partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.530",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /var/log/audit partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.520",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /var/log/audit partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.510",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure separate partition exists for /var/log/audit.,7,19007
+"Dec 30, 2025 @ 14:41:22.500",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure noexec option set on /var/log partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.490",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /var/log partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.480",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /var/log partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.469",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure separate partition exists for /var/log.,7,19007
+"Dec 30, 2025 @ 14:41:22.459",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure noexec option set on /var/tmp partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.449",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /var/tmp partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.439",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /var/tmp partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.429",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure separate partition exists for /var/tmp.,7,19007
+"Dec 30, 2025 @ 14:41:22.418",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /var partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.408",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /var partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.398",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure separate partition exists for /var.,7,19007
+"Dec 30, 2025 @ 14:41:22.388",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /home partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.378",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /home partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.368",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure separate partition exists for /home.,7,19007
+"Dec 30, 2025 @ 14:41:22.358",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure noexec option set on /dev/shm partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.347",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /dev/shm partition.,3,19008
+"Dec 30, 2025 @ 14:41:22.337",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /dev/shm partition.,3,19008
+"Dec 30, 2025 @ 14:41:22.327",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure /dev/shm is a separate partition.,3,19008
+"Dec 30, 2025 @ 14:41:22.317",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure noexec option set on /tmp partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.307",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /tmp partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.296",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /tmp partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.286",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure /tmp is a separate partition.,7,19007
+"Dec 30, 2025 @ 14:41:22.276",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure unused filesystems kernel modules are not available.,7,19007
+"Dec 30, 2025 @ 14:41:22.266",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure usb-storage kernel module is not available.,3,19008
+"Dec 30, 2025 @ 14:41:22.256",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure udf kernel module is not available.,3,19008
+"Dec 30, 2025 @ 14:41:22.246",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure squashfs kernel module is not available.,3,19008
+"Dec 30, 2025 @ 14:41:22.236",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure overlayfs kernel module is not available.,3,19008
+"Dec 30, 2025 @ 14:41:22.225",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure jffs2 kernel module is not available.,3,19008
+"Dec 30, 2025 @ 14:41:22.215",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure hfsplus kernel module is not available.,3,19008
+"Dec 30, 2025 @ 14:41:22.205",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure hfs kernel module is not available.,3,19008
+"Dec 30, 2025 @ 14:41:22.195",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure freevxfs kernel module is not available.,3,19008
+"Dec 30, 2025 @ 14:41:22.185",ubuntu-endpoint-01,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure mounting of cramfs filesystems is disabled.,3,19008
+"Dec 30, 2025 @ 14:41:05.649",ubuntu-endpoint-01,New wazuh agent connected.,3,501
+"Dec 30, 2025 @ 14:38:57.337",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:38:51.336",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:38:47.335",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:37:08.666",ubuntu,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 14:35:47.300",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:31:41.267",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:31:35.266",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:31:31.265",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:31:25.263",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:31:21.262",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:31:15.260",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:31:09.252",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:31:08.625",ubuntu,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 14:31:05.251",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:30:59.243",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 14:23:51.152",ubuntu,PAM: Login session closed.,3,5502
+"Dec 30, 2025 @ 14:23:47.151",ubuntu,PAM: Login session closed.,3,5502
+"Dec 30, 2025 @ 14:22:19.136",ubuntu,Successful sudo to ROOT executed.,3,5402
+"Dec 30, 2025 @ 14:22:19.136",ubuntu,PAM: Login session opened.,3,5501
+"Dec 30, 2025 @ 14:21:51.131",ubuntu,PAM: Login session opened.,3,5501
+"Dec 30, 2025 @ 14:21:51.131",ubuntu,sshd: authentication success.,3,5715
+"Dec 30, 2025 @ 13:53:10.794",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:53:04.793",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:53:00.790",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:52:14.785",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:52:08.784",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:52:04.783",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:51:04.773",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:50:52.771",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:49:08.177",ubuntu,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 13:48:58.747",ubuntu,First time user executed sudo.,4,5403
+"Dec 30, 2025 @ 13:48:58.747",ubuntu,PAM: Login session opened.,3,5501
+"Dec 30, 2025 @ 13:48:38.743",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:43:08.110",ubuntu,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 13:38:04.627",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:38:00.620",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:37:54.616",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:37:50.615",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:37:44.614",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:37:40.613",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:37:34.610",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:28:02.483",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:27:58.482",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:27:52.480",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:27:46.479",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:27:42.470",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:27:36.462",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:27:30.461",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:27:26.460",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:27:20.459",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:27:16.458",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:27:10.457",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:27:06.456",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:27:00.455",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:26:56.454",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:26:50.453",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:26:46.452",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:26:40.451",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:26:36.450",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:26:30.449",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:26:26.448",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:26:20.447",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:26:16.446",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:26:10.445",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:26:06.444",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:26:00.444",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:25:56.443",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:25:50.442",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:25:46.441",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:25:40.440",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:25:36.439",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:25:30.438",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:25:24.436",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:25:20.436",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:25:14.434",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:25:10.433",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:25:04.432",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:25:00.431",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:24:54.430",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:24:48.428",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:24:44.427",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:24:38.426",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:24:34.425",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:24:28.424",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:24:24.423",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:24:18.421",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:24:14.421",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:24:08.419",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:24:04.418",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:23:58.417",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:23:54.416",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:23:48.415",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:23:44.414",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:23:38.413",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:23:34.412",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:23:28.411",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:23:24.410",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:23:18.409",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:23:14.408",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:23:08.407",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:23:04.406",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:22:58.405",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:22:54.404",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:22:48.403",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:22:44.402",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:22:38.401",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:22:34.400",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:22:28.399",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:22:24.398",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:22:18.397",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:22:14.396",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:22:08.394",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:22:04.394",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:21:58.392",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:21:54.391",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:21:48.390",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:21:44.389",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:21:38.387",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:21:34.386",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:21:28.385",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:21:24.384",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:21:18.383",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:21:14.382",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:21:08.381",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:21:04.380",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:20:58.379",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:20:54.378",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:20:48.377",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:20:44.376",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:20:38.375",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:20:34.374",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:20:28.373",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:20:24.372",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:20:18.371",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:20:14.370",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:20:08.369",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:20:04.368",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:19:58.367",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:19:54.366",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:19:48.365",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:19:44.364",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:19:38.363",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:19:34.362",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:19:28.361",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:19:24.360",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:19:18.359",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:19:14.358",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:19:08.356",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:19:04.356",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:18:58.354",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:18:54.353",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:18:48.352",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:18:44.351",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:18:38.350",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:18:34.349",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:18:28.348",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:18:24.347",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:18:18.346",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:18:14.345",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:18:08.344",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:18:04.343",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:17:58.343",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:17:54.342",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:17:48.341",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:17:44.341",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:17:38.340",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:17:34.339",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:17:28.338",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:17:24.338",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:17:18.337",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:17:14.337",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:17:08.336",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:17:04.335",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:16:58.334",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:16:54.334",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:16:48.333",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:16:44.333",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:16:38.332",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:16:34.331",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:16:28.331",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:16:24.330",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:16:18.329",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:16:14.329",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:16:08.328",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:16:04.327",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:15:58.327",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:15:54.326",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:15:48.325",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:15:44.325",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:15:38.324",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:15:34.324",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:15:28.323",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:15:24.322",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:15:18.321",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:15:14.321",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:15:08.320",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:15:04.319",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:14:58.318",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:14:54.318",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:14:48.317",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:14:44.317",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:14:38.316",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:14:34.315",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:14:28.315",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:14:24.314",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:14:18.313",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:14:14.312",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:14:08.311",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:14:04.311",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:13:58.309",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:13:54.308",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:13:48.307",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:13:44.307",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:13:38.305",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:13:34.304",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:13:28.303",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:13:24.302",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:13:18.301",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:13:14.300",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:13:08.299",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:13:04.298",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:12:58.297",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:12:54.296",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:12:48.295",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:12:44.294",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:12:38.293",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:12:34.292",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:12:28.290",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:12:24.289",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:12:18.288",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:12:14.287",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:12:08.286",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:12:04.285",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:11:58.284",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:11:54.283",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:11:48.281",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:11:44.280",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:11:38.279",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:11:34.279",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:11:28.277",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:11:24.276",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:11:18.275",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:11:14.274",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:11:08.273",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:11:04.272",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:10:58.271",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:10:52.270",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:10:48.270",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:10:42.268",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:10:38.268",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:10:34.267",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:10:28.266",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:10:24.265",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:10:18.263",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:10:14.262",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:10:08.260",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:10:04.259",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:09:58.258",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:09:54.257",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:09:48.256",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:09:44.255",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:09:38.254",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:09:34.253",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:09:28.252",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:09:24.251",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:09:18.250",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:09:14.249",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:09:08.248",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:09:04.247",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:08:58.246",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:08:52.245",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:08:48.244",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:08:42.244",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:08:38.243",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:08:32.242",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:08:28.241",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:08:22.239",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:08:18.239",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:08:12.237",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:08:08.236",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:08:02.235",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:07:58.234",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:07:52.233",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:07:48.232",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:07:42.231",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:07:38.230",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:07:32.228",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:07:28.227",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:07:22.226",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:07:18.225",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:03:16.181",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:03:12.180",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:02:40.177",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:02:36.177",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:02:30.176",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:02:20.175",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:01:44.171",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:01:40.170",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:01:34.169",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:01:30.169",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:01:24.168",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:01:20.167",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:01:14.167",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:01:10.166",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:01:04.165",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:01:00.164",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 13:00:54.157",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:58:28.129",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:58:22.127",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:57:46.115",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:57:24.112",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:57:20.111",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:57:14.109",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:56:22.100",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:56:16.099",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:56:10.098",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:56:06.097",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:56:00.095",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:55:56.079",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:55:50.071",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:55:46.065",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:55:40.061",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:55:36.049",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:55:07.654",ubuntu,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 12:54:46.036",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:54:40.030",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:54:34.023",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:54:30.018",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:51:17.979",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:51:13.978",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:51:07.978",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:51:03.977",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:49:07.591",ubuntu,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 12:39:59.862",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:39:13.854",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:39:07.853",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:39:03.853",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:38:57.852",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:38:53.851",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:38:47.850",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:38:43.849",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:38:37.848",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:38:25.846",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:38:21.845",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:38:15.844",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:38:11.844",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:38:05.843",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:38:01.842",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:37:55.841",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:37:51.840",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:37:45.839",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:34:49.816",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:34:45.816",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:34:23.812",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:34:17.811",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:34:13.810",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:33:59.807",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:33:53.806",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:32:13.786",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:32:07.785",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:32:03.784",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:26:39.734",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:26:33.733",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:26:29.731",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:25:27.711",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:25:21.710",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:25:17.709",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:25:11.704",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:25:07.704",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:25:01.701",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:19:49.653",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:19:23.646",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:19:17.645",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:19:13.645",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:19:07.644",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:19:03.643",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:18:57.642",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:18:53.641",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:16:39.614",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:16:33.613",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:16:29.613",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:16:23.611",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:16:19.610",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:16:13.609",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:16:03.607",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:15:57.606",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:15:53.605",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:15:47.604",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:15:43.603",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:15:37.602",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:15:31.599",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:14:51.586",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:14:47.585",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:03:45.456",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:03:41.455",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:03:23.452",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:03:07.450",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:03:01.449",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:02:55.447",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:02:51.446",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:02:45.445",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:02:41.444",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:02:35.443",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:02:31.443",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:02:25.442",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:02:21.441",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:02:15.440",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:02:11.439",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:02:05.438",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:02:01.437",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:01:55.436",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:01:51.435",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:01:45.434",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:01:39.433",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:01:35.432",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:01:29.431",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:01:09.427",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:01:05.427",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:00:59.426",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:00:55.425",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:00:49.424",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:00:43.415",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 12:00:39.411",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:49:07.010",ubuntu,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 11:45:35.238",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:45:29.236",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:45:25.235",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:45:19.235",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:45:15.231",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:45:09.198",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:45:05.196",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:44:43.191",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:44:37.190",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:44:29.175",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:43:29.149",ubuntu,SCA summary: CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Score less than 50% (45),7,19004
+"Dec 30, 2025 @ 11:43:19.650",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure all AppArmor Profiles are in enforce or complain mode.: Status changed from failed to passed,3,19010
+"Dec 30, 2025 @ 11:43:15.959",ubuntu,Wazuh server started.,3,502
+"Dec 30, 2025 @ 11:43:06.994",ubuntu,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 11:18:20.878",ubuntu,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 11:17:21.522",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:17:17.518",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:17:11.513",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:17:05.508",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:17:01.495",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:16:55.401",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:16:51.320",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:16:45.303",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:16:41.283",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:16:35.279",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:16:31.271",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:16:25.241",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:16:21.106",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:16:15.096",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:16:11.085",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:16:05.077",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:16:01.073",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:15:55.068",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:15:51.064",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:15:43.047",ubuntu,Apparmor DENIED,3,52002
+"Dec 30, 2025 @ 11:12:48.321",ubuntu,SCA summary: CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Score less than 50% (45),7,19004
+"Dec 30, 2025 @ 11:12:42.765",ubuntu,PAM: Login session closed.,3,5502
+"Dec 30, 2025 @ 11:12:38.798",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure all AppArmor Profiles are in enforce or complain mode.: Status changed from passed to failed,9,19011
+"Dec 30, 2025 @ 11:12:29.741",ubuntu,Wazuh server started.,3,502
+"Dec 30, 2025 @ 11:12:20.783",ubuntu,Listened ports status (netstat) changed (new port opened or closed).,7,533
+"Dec 30, 2025 @ 11:11:26.562",ubuntu,PAM: Login session opened.,3,5501
+"Dec 30, 2025 @ 11:11:26.562",ubuntu,PAM: Login session closed.,3,5502
+"Dec 30, 2025 @ 11:11:26.562",ubuntu,PAM: Login session closed.,3,5502
+"Dec 30, 2025 @ 11:11:26.087",ubuntu,New dpkg (Debian Package) installed.,7,2902
+"Dec 30, 2025 @ 11:11:24.553",ubuntu,PAM: Login session closed.,3,5502
+"Dec 30, 2025 @ 11:11:24.553",ubuntu,PAM: Login session opened.,3,5501
+"Dec 30, 2025 @ 11:11:22.550",ubuntu,PAM: Login session opened.,3,5501
+"Dec 30, 2025 @ 11:11:20.084",ubuntu,Dpkg (Debian Package) half configured.,7,2904
+"Dec 30, 2025 @ 11:10:09.184",ubuntu,SCA summary: CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Score less than 50% (45),7,19004
+"Dec 30, 2025 @ 11:09:58.225",ubuntu,New user added to the system.,8,5902
+"Dec 30, 2025 @ 11:09:58.217",ubuntu,New group added to the system.,8,5901
+"Dec 30, 2025 @ 11:09:58.045",ubuntu,New dpkg (Debian Package) requested to install.,3,2901
+"Dec 30, 2025 @ 11:09:57.174",ubuntu,SCA summary: CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Score less than 50% (45),7,19004
+"Dec 30, 2025 @ 11:09:50.140",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure no duplicate group names exist.,3,19008
+"Dec 30, 2025 @ 11:09:50.130",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure no duplicate user names exist.,3,19008
+"Dec 30, 2025 @ 11:09:50.119",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure no duplicate GIDs exist.,3,19008
+"Dec 30, 2025 @ 11:09:50.109",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure no duplicate UIDs exist.,3,19008
+"Dec 30, 2025 @ 11:09:50.099",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure shadow group is empty.,3,19008
+"Dec 30, 2025 @ 11:09:50.089",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure all groups in /etc/passwd exist in /etc/group.,3,19008
+"Dec 30, 2025 @ 11:09:50.078",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure /etc/shadow password fields are not empty.,3,19008
+"Dec 30, 2025 @ 11:09:50.069",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure accounts in /etc/passwd use shadowed passwords.,3,19008
+"Dec 30, 2025 @ 11:09:50.058",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/security/opasswd are configured.,7,19007
+"Dec 30, 2025 @ 11:09:50.048",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/shells are configured.,3,19008
+"Dec 30, 2025 @ 11:09:50.037",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/gshadow- are configured.,3,19008
+"Dec 30, 2025 @ 11:09:50.027",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/gshadow are configured.,3,19008
+"Dec 30, 2025 @ 11:09:50.017",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/shadow- are configured.,3,19008
+"Dec 30, 2025 @ 11:09:50.007",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/shadow are configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.998",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/group- are configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.986",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/group are configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.977",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/passwd- are configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.964",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/passwd are configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.954",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure cryptographic mechanisms are used to protect the integrity of audit tools.,3,19009
+"Dec 30, 2025 @ 11:09:49.944",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure filesystem integrity is regularly checked.,7,19007
+"Dec 30, 2025 @ 11:09:49.934",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure AIDE is installed.,7,19007
+"Dec 30, 2025 @ 11:09:49.923",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit tools group owner is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.913",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit tools owner is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.903",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit tools mode is configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.893",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit configuration files group owner is configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.883",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit configuration files owner is configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.872",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit configuration files mode is configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.862",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit log files group owner is configured.,3,19009
+"Dec 30, 2025 @ 11:09:49.852",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure the running and on disk configuration is the same.,3,19009
+"Dec 30, 2025 @ 11:09:49.842",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure the audit configuration is immutable.,3,19009
+"Dec 30, 2025 @ 11:09:49.832",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure kernel module loading unloading and modification is collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.823",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure successful and unsuccessful attempts to use the usermod command are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.811",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure successful and unsuccessful attempts to use the chacl command are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.801",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure successful and unsuccessful attempts to use the setfacl command are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.789",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure successful and unsuccessful attempts to use the chcon command are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.779",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure events that modify the system's Mandatory Access Controls are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.769",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure file deletion events by users are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.758",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure login and logout events are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.748",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure session initiation information is collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.738",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure successful file system mounts are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.728",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure discretionary access control permission modification events are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.718",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure events that modify user/group information are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.707",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure unsuccessful file access attempts are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.697",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure events that modify the system's network environment are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.687",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure events that modify date and time information are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.677",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure events that modify the sudo log file are collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.666",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure actions as another user are always logged.,3,19009
+"Dec 30, 2025 @ 11:09:49.656",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure changes to system administration scope (sudoers) is collected.,3,19009
+"Dec 30, 2025 @ 11:09:49.646",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure system warns when audit logs are low on space.,3,19009
+"Dec 30, 2025 @ 11:09:49.635",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure system is disabled when audit logs are full.,3,19009
+"Dec 30, 2025 @ 11:09:49.624",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit logs are not automatically deleted.,3,19009
+"Dec 30, 2025 @ 11:09:49.613",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit log storage size is configured.,3,19009
+"Dec 30, 2025 @ 11:09:49.603",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure audit_backlog_limit is sufficient.,7,19007
+"Dec 30, 2025 @ 11:09:49.591",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure auditing for processes that start prior to auditd is enabled.,7,19007
+"Dec 30, 2025 @ 11:09:49.581",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure auditd service is enabled and active.,7,19007
+"Dec 30, 2025 @ 11:09:49.569",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure auditd packages are installed.,7,19007
+"Dec 30, 2025 @ 11:09:49.559",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure access to all logfiles has been configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.550",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsyslog is not configured to receive logs from a remote client.,3,19008
+"Dec 30, 2025 @ 11:09:49.539",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsyslog is configured to send logs to a remote log host.,7,19007
+"Dec 30, 2025 @ 11:09:49.525",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsyslog log file creation mode is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.515",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure journald is configured to send logs to rsyslog.,3,19008
+"Dec 30, 2025 @ 11:09:49.505",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsyslog service is enabled and active.,3,19008
+"Dec 30, 2025 @ 11:09:49.496",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsyslog is installed.,3,19008
+"Dec 30, 2025 @ 11:09:49.484",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure journald Storage is configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.474",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure journald Compress is configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.463",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure journald ForwardToSyslog is disabled.,3,19008
+"Dec 30, 2025 @ 11:09:49.451",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure systemd-journal-remote service is not in use.,3,19008
+"Dec 30, 2025 @ 11:09:49.440",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure systemd-journal-upload is enabled and active.,3,19008
+"Dec 30, 2025 @ 11:09:49.429",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure systemd-journal-upload authentication is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.419",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure systemd-journal-remote is installed.,3,19008
+"Dec 30, 2025 @ 11:09:49.407",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure journald log file rotation is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.396",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure journald service is enabled and active.,3,19008
+"Dec 30, 2025 @ 11:09:49.386",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure default user umask is configured.,3,19009
+"Dec 30, 2025 @ 11:09:49.376",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure default user shell timeout is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.365",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nologin is not listed in /etc/shells.,3,19008
+"Dec 30, 2025 @ 11:09:49.356",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure root user umask is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.343",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure root account access is controlled.,3,19008
+"Dec 30, 2025 @ 11:09:49.332",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure group root is the only GID 0 group.,3,19008
+"Dec 30, 2025 @ 11:09:49.322",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure root is the only GID 0 account.,3,19008
+"Dec 30, 2025 @ 11:09:49.312",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure root is the only UID 0 account.,3,19008
+"Dec 30, 2025 @ 11:09:49.302",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure inactive password lock is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.292",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure strong password hashing algorithm is configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.281",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password expiration warning days is configured.,3,19008
+"Dec 30, 2025 @ 11:09:49.271",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure minimum password days is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.261",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password expiration is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.250",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_unix includes use_authtok.,3,19008
+"Dec 30, 2025 @ 11:09:49.240",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_unix includes a strong password hashing algorithm.,3,19008
+"Dec 30, 2025 @ 11:09:49.230",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_unix does not include remember.,3,19008
+"Dec 30, 2025 @ 11:09:49.220",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_unix does not include nullok.,7,19007
+"Dec 30, 2025 @ 11:09:49.210",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_pwhistory includes use_authtok.,7,19007
+"Dec 30, 2025 @ 11:09:49.200",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password history is enforced for the root user.,7,19007
+"Dec 30, 2025 @ 11:09:49.189",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password history remember is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.179",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password quality is enforced for the root user.,3,19009
+"Dec 30, 2025 @ 11:09:49.168",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password quality checking is enforced.,3,19008
+"Dec 30, 2025 @ 11:09:49.158",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password dictionary check is enabled.,3,19008
+"Dec 30, 2025 @ 11:09:49.148",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password maximum sequential characters is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.138",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password same consecutive characters is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.127",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password complexity is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.117",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure minimum password length is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.110",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password number of changed characters is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.096",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password failed attempts lockout includes root account.,7,19007
+"Dec 30, 2025 @ 11:09:49.086",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password unlock time is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.076",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure password failed attempts lockout is configured.,7,19007
+"Dec 30, 2025 @ 11:09:49.066",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_pwhistory module is enabled.,7,19007
+"Dec 30, 2025 @ 11:09:49.055",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_pwquality module is enabled.,3,19008
+"Dec 30, 2025 @ 11:09:49.045",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_faillock module is enabled.,7,19007
+"Dec 30, 2025 @ 11:09:49.035",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure pam_unix module is enabled.,3,19008
+"Dec 30, 2025 @ 11:09:49.026",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure libpam-pwquality is installed.,3,19008
+"Dec 30, 2025 @ 11:09:49.014",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure libpam-modules is installed.,3,19008
+"Dec 30, 2025 @ 11:09:49.004",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure latest version of pam is installed.,3,19008
+"Dec 30, 2025 @ 11:09:48.994",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure access to the su command is restricted.,7,19007
+"Dec 30, 2025 @ 11:09:48.983",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sudo authentication timeout is configured correctly.,3,19008
+"Dec 30, 2025 @ 11:09:48.973",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure re-authentication for privilege escalation is not disabled globally.,3,19008
+"Dec 30, 2025 @ 11:09:48.963",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure users must provide password for privilege escalation.,3,19008
+"Dec 30, 2025 @ 11:09:48.952",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sudo log file exists.,7,19007
+"Dec 30, 2025 @ 11:09:48.942",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sudo commands use pty.,3,19008
+"Dec 30, 2025 @ 11:09:48.929",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sudo is installed.,3,19008
+"Dec 30, 2025 @ 11:09:48.919",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd UsePAM is enabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.908",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd PermitUserEnvironment is disabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.898",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd PermitRootLogin is disabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.887",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd PermitEmptyPasswords is disabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.877",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd MaxStartups is configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.866",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd MaxSessions is configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.856",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd MaxAuthTries is configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.845",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd MACs are configured.,3,19008
+"Dec 30, 2025 @ 11:09:48.835",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd LogLevel is configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.824",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd LoginGraceTime is configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.814",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd KexAlgorithms is configured.,3,19008
+"Dec 30, 2025 @ 11:09:48.804",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd IgnoreRhosts is enabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.794",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd HostbasedAuthentication is disabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.783",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd GSSAPIAuthentication is disabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.773",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd DisableForwarding is enabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.761",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd ClientAliveInterval and ClientAliveCountMax are configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.750",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd Ciphers are configured.,3,19008
+"Dec 30, 2025 @ 11:09:48.740",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd Banner is configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.729",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sshd access is configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.719",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on SSH public host key files are configured.,3,19008
+"Dec 30, 2025 @ 11:09:48.709",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on SSH private host key files are configured.,3,19008
+"Dec 30, 2025 @ 11:09:48.698",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/ssh/sshd_config are configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.688",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ip6tables loopback traffic is configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.677",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ip6tables default deny firewall policy.,7,19007
+"Dec 30, 2025 @ 11:09:48.667",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure iptables loopback traffic is configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.657",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure iptables default deny firewall policy.,7,19007
+"Dec 30, 2025 @ 11:09:48.647",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ufw is not in use with iptables.,7,19007
+"Dec 30, 2025 @ 11:09:48.635",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nftables is not in use with iptables.,7,19007
+"Dec 30, 2025 @ 11:09:48.625",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure iptables packages are installed.,7,19007
+"Dec 30, 2025 @ 11:09:48.614",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nftables rules are permanent.,7,19007
+"Dec 30, 2025 @ 11:09:48.604",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nftables service is enabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.594",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nftables default deny firewall policy.,7,19007
+"Dec 30, 2025 @ 11:09:48.584",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nftables base chains exist.,7,19007
+"Dec 30, 2025 @ 11:09:48.572",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure a nftables table exists.,7,19007
+"Dec 30, 2025 @ 11:09:48.562",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure iptables are flushed with nftables.,7,19007
+"Dec 30, 2025 @ 11:09:48.551",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ufw is uninstalled or disabled with nftables.,3,19008
+"Dec 30, 2025 @ 11:09:48.541",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nftables is installed.,3,19008
+"Dec 30, 2025 @ 11:09:48.531",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ufw default deny firewall policy.,7,19007
+"Dec 30, 2025 @ 11:09:48.521",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ufw loopback traffic is configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.510",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ufw service is enabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.496",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure iptables-persistent is not installed with ufw.,3,19008
+"Dec 30, 2025 @ 11:09:48.486",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ufw is installed.,3,19008
+"Dec 30, 2025 @ 11:09:48.476",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure a single firewall configuration utility is in use.,7,19007
+"Dec 30, 2025 @ 11:09:48.466",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ipv6 router advertisements are not accepted.,7,19007
+"Dec 30, 2025 @ 11:09:48.455",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure tcp syn cookies is enabled.,3,19008
+"Dec 30, 2025 @ 11:09:48.445",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure suspicious packets are logged.,7,19007
+"Dec 30, 2025 @ 11:09:48.435",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure source routed packets are not accepted.,7,19007
+"Dec 30, 2025 @ 11:09:48.428",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure reverse path filtering is enabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.414",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure secure icmp redirects are not accepted.,7,19007
+"Dec 30, 2025 @ 11:09:48.404",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure icmp redirects are not accepted.,7,19007
+"Dec 30, 2025 @ 11:09:48.394",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure broadcast icmp requests are ignored.,3,19008
+"Dec 30, 2025 @ 11:09:48.388",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure bogus icmp responses are ignored.,3,19008
+"Dec 30, 2025 @ 11:09:48.373",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure packet redirect sending is disabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.361",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ip forwarding is disabled.,3,19008
+"Dec 30, 2025 @ 11:09:48.351",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure sctp kernel module is not available.,7,19007
+"Dec 30, 2025 @ 11:09:48.340",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rds kernel module is not available.,7,19007
+"Dec 30, 2025 @ 11:09:48.330",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure tipc kernel module is not available.,7,19007
+"Dec 30, 2025 @ 11:09:48.319",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure dccp kernel module is not available.,7,19007
+"Dec 30, 2025 @ 11:09:48.309",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure bluetooth services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:48.297",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure wireless interfaces are disabled.,7,19007
+"Dec 30, 2025 @ 11:09:48.286",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure at is restricted to authorized users.,7,19007
+"Dec 30, 2025 @ 11:09:48.277",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure crontab is restricted to authorized users.,7,19007
+"Dec 30, 2025 @ 11:09:48.267",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/cron.d are configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.249",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/cron.monthly are configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.239",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/cron.weekly are configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.228",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/cron.daily are configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.216",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/cron.hourly are configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.204",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure permissions on /etc/crontab are configured.,7,19007
+"Dec 30, 2025 @ 11:09:48.197",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure cron daemon is enabled and active.,3,19008
+"Dec 30, 2025 @ 11:09:48.183",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure chrony is enabled and running.,7,19007
+"Dec 30, 2025 @ 11:09:48.173",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure chrony is running as user _chrony.,7,19007
+"Dec 30, 2025 @ 11:09:48.163",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure chrony is configured with authorized timeserver.,3,19008
+"Dec 30, 2025 @ 11:09:48.154",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure systemd-timesyncd is enabled and running.,3,19008
+"Dec 30, 2025 @ 11:09:48.142",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure systemd-timesyncd configured with authorized timeserver.,7,19007
+"Dec 30, 2025 @ 11:09:48.132",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ftp client is not installed.,7,19007
+"Dec 30, 2025 @ 11:09:48.122",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ldap client is not installed.,7,19007
+"Dec 30, 2025 @ 11:09:48.109",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure telnet client is not installed.,7,19007
+"Dec 30, 2025 @ 11:09:48.098",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure talk client is not installed.,3,19008
+"Dec 30, 2025 @ 11:09:48.089",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsh client is not installed.,3,19008
+"Dec 30, 2025 @ 11:09:48.078",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure NIS Client is not installed.,3,19008
+"Dec 30, 2025 @ 11:09:48.063",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure mail transfer agent is configured for local-only mode.,3,19008
+"Dec 30, 2025 @ 11:09:48.046",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure X window server services are not in use.,7,19007
+"Dec 30, 2025 @ 11:09:48.036",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure xinetd services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:48.025",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure web server services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:48.010",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure web proxy server services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.999",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure tftp server services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.990",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure snmp services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.978",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure samba file server services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.967",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rsync services are not in use.,7,19007
+"Dec 30, 2025 @ 11:09:47.957",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure rpcbind services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.946",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure print server services are not in use.,7,19007
+"Dec 30, 2025 @ 11:09:47.936",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nis server services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.926",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure network file system services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.916",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure message access server services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.905",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ldap server services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.894",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure ftp server services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.884",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure dnsmasq services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.869",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure dns server services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.858",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure dhcp server services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.848",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure avahi daemon services are not in use.,7,19007
+"Dec 30, 2025 @ 11:09:47.835",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure autofs services are not in use.,3,19008
+"Dec 30, 2025 @ 11:09:47.825",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure XDMCP is not enabled.,3,19008
+"Dec 30, 2025 @ 11:09:47.815",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM autorun-never is not overridden.,3,19009
+"Dec 30, 2025 @ 11:09:47.804",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM autorun-never is enabled.,3,19009
+"Dec 30, 2025 @ 11:09:47.793",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM disabling automatic mounting of removable media is not overridden.,3,19009
+"Dec 30, 2025 @ 11:09:47.783",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM automatic mounting of removable media is disabled.,3,19009
+"Dec 30, 2025 @ 11:09:47.772",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM screen locks cannot be overridden.,3,19009
+"Dec 30, 2025 @ 11:09:47.762",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM disable-user-list option is enabled.,3,19009
+"Dec 30, 2025 @ 11:09:47.752",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM login banner is configured.,7,19007
+"Dec 30, 2025 @ 11:09:47.742",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure GDM is removed.,7,19007
+"Dec 30, 2025 @ 11:09:47.731",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure access to /etc/issue.net is configured.,3,19008
+"Dec 30, 2025 @ 11:09:47.720",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure access to /etc/issue is configured.,3,19008
+"Dec 30, 2025 @ 11:09:47.709",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure access to /etc/motd is configured.,3,19008
+"Dec 30, 2025 @ 11:09:47.698",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure remote login warning banner is configured properly.,7,19007
+"Dec 30, 2025 @ 11:09:47.686",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure local login warning banner is configured properly.,7,19007
+"Dec 30, 2025 @ 11:09:47.676",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure message of the day is configured properly.,3,19008
+"Dec 30, 2025 @ 11:09:47.663",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure Automatic Error Reporting is not enabled.,7,19007
+"Dec 30, 2025 @ 11:09:47.653",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure prelink is not installed.,3,19008
+"Dec 30, 2025 @ 11:09:47.640",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure core dumps are restricted.,7,19007
+"Dec 30, 2025 @ 11:09:47.630",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure address space layout randomization is enabled.,3,19008
+"Dec 30, 2025 @ 11:09:47.620",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure access to bootloader config is configured.,3,19008
+"Dec 30, 2025 @ 11:09:47.609",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure bootloader password is set.,7,19007
+"Dec 30, 2025 @ 11:09:47.599",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure all AppArmor Profiles are enforcing.,7,19007
+"Dec 30, 2025 @ 11:09:47.589",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure all AppArmor Profiles are in enforce or complain mode.,3,19008
+"Dec 30, 2025 @ 11:09:47.579",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure AppArmor is enabled in the bootloader configuration.,7,19007
+"Dec 30, 2025 @ 11:09:47.568",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure AppArmor is installed.,7,19007
+"Dec 30, 2025 @ 11:09:47.557",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure noexec option set on /var/log/audit partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.547",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /var/log/audit partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.537",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /var/log/audit partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.526",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure separate partition exists for /var/log/audit.,7,19007
+"Dec 30, 2025 @ 11:09:47.515",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure noexec option set on /var/log partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.505",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /var/log partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.495",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /var/log partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.485",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure separate partition exists for /var/log.,7,19007
+"Dec 30, 2025 @ 11:09:47.474",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure noexec option set on /var/tmp partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.464",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /var/tmp partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.454",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /var/tmp partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.444",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure separate partition exists for /var/tmp.,7,19007
+"Dec 30, 2025 @ 11:09:47.433",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /var partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.423",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /var partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.413",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure separate partition exists for /var.,7,19007
+"Dec 30, 2025 @ 11:09:47.402",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /home partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.392",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /home partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.382",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure separate partition exists for /home.,7,19007
+"Dec 30, 2025 @ 11:09:47.372",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure noexec option set on /dev/shm partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.362",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /dev/shm partition.,3,19008
+"Dec 30, 2025 @ 11:09:47.351",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /dev/shm partition.,3,19008
+"Dec 30, 2025 @ 11:09:47.341",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure /dev/shm is a separate partition.,3,19008
+"Dec 30, 2025 @ 11:09:47.331",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure noexec option set on /tmp partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.321",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nosuid option set on /tmp partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.310",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure nodev option set on /tmp partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.301",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure /tmp is a separate partition.,7,19007
+"Dec 30, 2025 @ 11:09:47.289",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure unused filesystems kernel modules are not available.,7,19007
+"Dec 30, 2025 @ 11:09:47.277",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure usb-storage kernel module is not available.,3,19008
+"Dec 30, 2025 @ 11:09:47.269",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure udf kernel module is not available.,3,19008
+"Dec 30, 2025 @ 11:09:47.258",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure squashfs kernel module is not available.,3,19008
+"Dec 30, 2025 @ 11:09:47.247",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure overlayfs kernel module is not available.,3,19008
+"Dec 30, 2025 @ 11:09:47.234",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure jffs2 kernel module is not available.,3,19008
+"Dec 30, 2025 @ 11:09:47.225",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure hfsplus kernel module is not available.,3,19008
+"Dec 30, 2025 @ 11:09:47.213",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure hfs kernel module is not available.,3,19008
+"Dec 30, 2025 @ 11:09:47.202",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure freevxfs kernel module is not available.,3,19008
+"Dec 30, 2025 @ 11:09:47.199",ubuntu,CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0.: Ensure mounting of cramfs filesystems is disabled.,3,19008
+"Dec 30, 2025 @ 11:09:42.033",ubuntu,New dpkg (Debian Package) installed.,7,2902
+"Dec 30, 2025 @ 11:09:41.123",ubuntu,Wazuh server started.,3,502
+"Dec 30, 2025 @ 11:09:40.035",ubuntu,Dpkg (Debian Package) half configured.,7,2904
+"Dec 30, 2025 @ 11:09:38.031",ubuntu,New dpkg (Debian Package) requested to install.,3,2901
