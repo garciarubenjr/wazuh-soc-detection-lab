@@ -1,0 +1,1 @@
+# wazuh-soc-detection-lab
