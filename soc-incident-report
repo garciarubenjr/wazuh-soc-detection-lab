@@ -1,0 +1,65 @@
+📄 SOC Incident Report
+
+Platform: Wazuh 4.14
+Date: Dec 29–30, 2025
+Analyst: Ruben Garcia
+
+1️⃣ Executive Summary
+
+A Wazuh-based SIEM/HIDS environment was deployed to monitor Linux endpoints. The system successfully detected multiple security-relevant events, including changes to listening network ports, file integrity modifications, privileged command usage, and CIS benchmark deviations. These alerts demonstrate effective host-based threat detection and compliance monitoring.
+
+2️⃣ Environment Overview
+Component	Details
+SIEM	Wazuh 4.14
+Manager OS	Ubuntu 24.04
+Endpoint OS	Ubuntu 24.04
+Agent Status	Active
+Network	Internal VMware lab
+3️⃣ Detected Events
+🔓 Network Port Change
+
+Rule ID: 533
+
+Severity: 7 (Medium)
+
+Description: Listening ports status changed
+
+MITRE: Discovery (T1046)
+
+Evidence: netstat diff detected
+
+📂 File Integrity Monitoring
+
+File created and deleted
+
+Real-time FIM detection
+
+Confirms unauthorized change detection
+
+🔑 Privileged Access Usage
+
+sudo execution logged
+
+Validates audit logging and privilege monitoring
+
+📋 CIS Compliance Findings
+
+Ubuntu 24.04 CIS benchmark score < 50%
+
+Multiple misconfigurations identified
+
+Demonstrates compliance auditing capability
+
+4️⃣ Analyst Assessment
+
+No evidence of malicious exploitation was observed. Activity aligns with testing behavior. Alerts confirm correct SIEM visibility and rule enforcement.
+
+5️⃣ Recommendations
+
+Tune severity thresholds for lab realism
+
+Add vulnerable host (Metasploitable2) as high-risk asset
+
+Enable active response for critical events
+
+Expand to brute-force and exploit simulations
