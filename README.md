@@ -309,3 +309,31 @@ This project was conducted exclusively in a controlled cybersecurity lab environ
 The activity documented in this repository was generated for authorized security monitoring, detection validation, and professional development purposes.
 
 No real-world compromise is represented by the events shown in this project.
+
+---
+
+## Automated Agent Onboarding
+
+This repository includes a reusable onboarding script for Debian/Ubuntu-based Wazuh agents:
+
+[`scripts/onboard-wazuh-agent.sh`](scripts/onboard-wazuh-agent.sh)
+
+The script automates:
+
+- Wazuh repository configuration
+- Agent installation
+- Secure enrollment with the Wazuh manager
+- Agent naming and group assignment
+- Manager connectivity checks
+- Existing-agent detection
+- Explicit re-enrollment safeguards
+- Service startup and health validation
+- Package hold to reduce accidental version drift
+
+### Example
+
+```bash
+sudo bash scripts/onboard-wazuh-agent.sh \
+  --manager 192.168.10.100 \
+  --name linux-endpoint-01 \
+  --group linux-servers
